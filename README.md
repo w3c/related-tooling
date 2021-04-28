@@ -7,7 +7,8 @@ The following table lists all the tools used by the W3C community but not operat
 | [https://csswg.org/](https://csswg.org/) | | [Peter Linss](mailto:w3c@linss.com)| |
 | [https://svgwg.org/](https://svgwg.org/) | | | |
 | [https://specref.org/](https://specref.org/) | | [Tobie Langel](mailto:tobie@unlockopen.com) | [tobie/specref](https://github.com/tobie/specref) |
-| [https://respec.org/](https://respec.org/) | | [Marcos Cáceres](mailto:marcosc@w3.org)| [w3c/respec](https://github.com/w3c/respec) |
+| [https://respec.org/](https://respec.org/) | Spec generator | [Marcos Cáceres](mailto:marcosc@w3.org)| [w3c/respec](https://github.com/w3c/respec) |
+| [Bikeshed](https://tabatkins.github.io/bikeshed/) | Spec generator | [Tab Atkins Jr.](mailto:jackalmage@gmail.com) | [tabatkins/bikeshed](https://github.com/tabatkins/bikeshed) |
 | [https://httpwg.org/](https://httpwg.org/) | | | |
 | [https://krijnhoetmer.nl/irc-logs/](https://krijnhoetmer.nl/irc-logs/) | | | |
 | [https://w3ctag.github.io/](https://w3ctag.github.io/) | | | |
