@@ -2,7 +2,7 @@
 
 The inventory below lists all the domains and GitHub organizations used by the W3C community but not operated by W3C. The owners are welcome to provide details on the infrastructure and maintainance of their servers.
 
-## [css-houdini.org](https://wiki.css-houdini.org/)
+## [css-houdini.org](https://css-houdini.org/)
 Purpose:
 Owners:
 Comments:
