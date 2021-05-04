@@ -2,12 +2,12 @@
 
 The inventory below lists all the domains and GitHub organizations used by the W3C community but not operated by W3C. The owners are welcome to provide details on the infrastructure and maintainance of their servers.
 
-## [css-houdini.org](https://css-houdini.org/)
+## [credweb.org](https://credweb.org/)
 Purpose:
 Owners:
 Comments:
 
-## [credweb.org](https://credweb.org/)
+## [css-houdini.org](https://css-houdini.org/)
 Purpose:
 Owners:
 Comments:
@@ -109,11 +109,6 @@ Purpose:
 Owners:
 Comments:
 
-## [wicg.io](https://discourse.wicg.io/)
-Purpose:
-Owners:
-Comments:
-
 ## [webmention.rocks](https://webmention.rocks/)
 Purpose:
 Owners:
@@ -124,8 +119,12 @@ Purpose:
 Owners:
 Comments:
 
-## [wpt.fyi](https://wpt.fyi/)
+## [wicg.io](https://discourse.wicg.io/)
 Purpose:
 Owners:
 Comments:
 
+## [wpt.fyi](https://wpt.fyi/)
+Purpose:
+Owners:
+Comments:
